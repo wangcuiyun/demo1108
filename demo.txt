@@ -1,1 +1,1 @@
-"hello Word git"
+"hello git"
